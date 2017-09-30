@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\59c6012620793f5f6a22022fd3def8a1d8646f54\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\4391d71b9878ef549284e7813942e698dd825ec4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\3185fb6fc586fdebb7257a6198976ba106bd7530\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\efc20e3554079b19e8e707144e04fd51f685f26d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\5baaa6dcd24677cc89828dedb090fc46d83fe77e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\869aef92eeccf1d87ae798bc22a9741d1173a8f8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\4d9dbe079c7bc2f71c7d4b4db3b6db95657f1d0b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\2c9d4cf7dfd92051652f339add9d9c3fc0ae832b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\e94f7cb2cd48fe009a9fad80dd7705afe6b4d0cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jonah Cowan\.android\build-cache\fc06b3fd3e0a0627764e470bc8720d2fbc41d656\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.jcowan_countbook.MainActivity
+ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\59c6012620793f5f6a22022fd3def8a1d8646f54\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\4391d71b9878ef549284e7813942e698dd825ec4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\3185fb6fc586fdebb7257a6198976ba106bd7530\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\efc20e3554079b19e8e707144e04fd51f685f26d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\5baaa6dcd24677cc89828dedb090fc46d83fe77e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\869aef92eeccf1d87ae798bc22a9741d1173a8f8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\4d9dbe079c7bc2f71c7d4b4db3b6db95657f1d0b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\2c9d4cf7dfd92051652f339add9d9c3fc0ae832b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\e94f7cb2cd48fe009a9fad80dd7705afe6b4d0cf\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jonah Cowan\.android\build-cache\fc06b3fd3e0a0627764e470bc8720d2fbc41d656\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\59c6012620793f5f6a22022fd3def8a1d8646f54\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jonah Cowan\AndroidStudioProjects\jcowan-CountBook\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\59c6012620793f5f6a22022fd3def8a1d8646f54\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\4391d71b9878ef549284e7813942e698dd825ec4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\3185fb6fc586fdebb7257a6198976ba106bd7530\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\efc20e3554079b19e8e707144e04fd51f685f26d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\5baaa6dcd24677cc89828dedb090fc46d83fe77e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\869aef92eeccf1d87ae798bc22a9741d1173a8f8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\4d9dbe079c7bc2f71c7d4b4db3b6db95657f1d0b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\2c9d4cf7dfd92051652f339add9d9c3fc0ae832b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\e94f7cb2cd48fe009a9fad80dd7705afe6b4d0cf\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\59c6012620793f5f6a22022fd3def8a1d8646f54\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonah Cowan\.android\build-cache\59c6012620793f5f6a22022fd3def8a1d8646f54\output\AndroidManifest.xml:26:9-47

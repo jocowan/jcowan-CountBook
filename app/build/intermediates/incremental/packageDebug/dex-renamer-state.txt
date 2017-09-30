@@ -1,0 +1,4 @@
+#Fri Sep 29 17:56:51 MDT 2017
+base.0=C\:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Jonah Cowan\\.android\\build-cache\\59c6012620793f5f6a22022fd3def8a1d8646f54\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Jonah Cowan\\.android\\build-cache\\59c6012620793f5f6a22022fd3def8a1d8646f54\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Jonah Cowan\\.android\\build-cache\\59c6012620793f5f6a22022fd3def8a1d8646f54\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Jonah Cowan\\.android\\build-cache\\59c6012620793f5f6a22022fd3def8a1d8646f54\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Jonah Cowan\\.android\\build-cache\\59c6012620793f5f6a22022fd3def8a1d8646f54\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jonah Cowan\\AndroidStudioProjects\\jcowan-CountBook\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Jonah Cowan\\.android\\build-cache\\59c6012620793f5f6a22022fd3def8a1d8646f54\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]
